@@ -1,12 +1,12 @@
 <!--This Bot is Made By Gladitors Project-->
 <p align="center">
-  <img src="resources/Gladiators.jpeg" alt="Logo">
+  <img src="resources/𓆩𝙎𝘼𝙄𝙔𝙔𝘼_✪_𝙋𝙎𝙔𝘾𝙃𝙊𓆪.jpeg" alt="Logo">
 </p>
 
 ### 🚀 Gʟᴀᴅɪᴀᴛᴏʀs sᴘᴀᴍᴍᴇʀʙᴏᴛs
   <a href="https://github.com/Gladiators-Projects"><img alt="Website" src="https://img.shields.io/badge/Gladiators-Projects-blue"></a>
-  [![Stars](https://img.shields.io/github/stars/Gladiators-Projects/spammerbots?style=social)](https://github.com/Gladiators-Projects/spammerbots/stargazers)
-  [![Forks](https://img.shields.io/github/forks/Gladiators-Projects/spammerbots?style=social)](https://github.com/Gladiators-Projects/spammerbots/fork)
+  [![Stars](https://img.shields.io/github/stars/𓆩𝙎𝘼𝙄𝙔𝙔𝘼_✪_𝙋𝙎𝙔𝘾𝙃𝙊𓆪/spammerbots?style=social)](https://github.com/Gladiators-Projects/spammerbots/stargazers)
+  [![Forks](https://img.shields.io/github/forks/𓆩𝙎𝘼𝙄𝙔𝙔𝘼_✪_𝙋𝙎𝙔𝘾𝙃𝙊𓆪/spammerbots?style=social)](https://github.com/Gladiators-Projects/spammerbots/fork)
 
 ### 🛠️ Lᴀɴɢᴜᴀɢᴇs Aɴᴅ Tᴏᴏʟs
 
